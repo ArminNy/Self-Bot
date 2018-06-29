@@ -19,7 +19,6 @@ chmod +x CPM
 --------------------------------------
 
 #for Autolaunch
-///////////////////////////////
 
  chmod +x AutoRunning.sh
  

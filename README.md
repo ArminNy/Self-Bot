@@ -20,11 +20,11 @@ chmod +x CPM
 
 #for Autolaunch
 
- chmod +x AutoRunning.sh
+ chmod +x AutoRuning.sh
  
  --------------------------------------
  
- screen ./AutoRunning.sh
+ screen ./AutoRuning.sh
  
  اموزش ویدیویی در کانال تلگرام
  

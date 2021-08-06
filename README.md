@@ -26,6 +26,3 @@ chmod +x CPM
  
  screen ./AutoRuning.sh
  
- اموزش ویدیویی در کانال تلگرام
- 
- @learn_cli_bot
